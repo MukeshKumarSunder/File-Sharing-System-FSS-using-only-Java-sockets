@@ -31,7 +31,7 @@ F:\Mukesh\George Mason University\Subjects\SWE 622\assignment
 
 pushd F:\Mukesh\George Mason University\Subjects\SWE 622\assignment
 
-java -jar "ProgrammingAssignment1.jar" server start 8052
+java -jar "Mukesh.jar" server start 8052
 
 set PA1_SERVER=127.0.0.1:8052
 
